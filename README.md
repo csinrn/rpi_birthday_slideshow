@@ -6,5 +6,5 @@ A rpi based image slideshow, including time &amp; weather information
 https://github.com/chubin/wttr.in
 
 ### ImageMagick for image processing
-https://imagemagick.org/index.php
+https://imagemagick.org/index.php  
 convert - https://imagemagick.org/script/convert.php (use -flip for mirroring)
